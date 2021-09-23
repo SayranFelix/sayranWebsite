@@ -10,7 +10,6 @@ body {
 }
 
 #githubBtn {
-  background: #FFF;
-  border-radius: 50%;
+  background: none;
   border: none;
 }
