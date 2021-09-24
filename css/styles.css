@@ -5,6 +5,11 @@
 
 body {
    background: url(https://media.discordapp.net/attachments/846891947654250526/890950986309455922/b71fb96049e24f4b99bd65268a479973.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: fixed;
+   background-blend-mode: overlay;
    color: #FFF;
    font-family: Arial, Helvetica, sans-serif;
 }
