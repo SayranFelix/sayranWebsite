@@ -16,4 +16,5 @@ h2, h3 {
 .githubRedirect {
   color: white;
   font-size: 60px;
+  text-decoration: none;
 }
