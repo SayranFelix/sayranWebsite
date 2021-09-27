@@ -1,1 +1,1 @@
-console.log("Uepa! 😄 Bem-vindo ao meu portfólio, saiba mais sobre mim aqui.")
+console.log("[SBW] Uepa! Website vivo, tome cuidado com o que vai executar aqui.");
